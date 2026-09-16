@@ -1,0 +1,1 @@
+Native analysis workspace for Conquerors map-coordinate research. The binary libgame.so is stored separately as libgame.zip because GitHub's normal file limit blocks the raw .so.
